@@ -1,3 +1,3 @@
 # Sebuah Tentang puisi
 ## 
- ![img]screenshot/ss1.png
+ ![gambar 1](screenshot/ss1.png)
